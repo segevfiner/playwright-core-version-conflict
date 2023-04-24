@@ -1,0 +1,11 @@
+{
+  "name": "b",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@playwright/test": "^1.32.3",
+    "@types/node": "18",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {}
+}
